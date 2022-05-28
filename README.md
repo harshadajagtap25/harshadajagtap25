@@ -14,7 +14,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href = "www.linkedin.com/in/harshada-jagtap-88334a192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "www.linkedin.com/in/harshada-jagtap-88334a192"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://www.instagram.com/_harshu.jagtap/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
