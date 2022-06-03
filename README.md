@@ -11,7 +11,18 @@
 - 📫 How to reach me: **harshadajagtap199725@gmail.com**
 
 # Languages and Tools:
-[c++](https://www.cplusplus.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML5](https://www.w3.org/html/), [CSS3](https://www.w3schools.com/css/), [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/)
+<p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+</p>
 
 <p align="center">
     <a href="https://github.com/harshadajagtap25/github-readme-streak-stats">
