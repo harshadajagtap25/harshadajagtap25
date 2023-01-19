@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harshada Jagtap</h1>
+<h1 align="center">Hi👋, I'm Harshada Jagtap</h1>
 <h3 align="center">I'm Aspiring Full Stack Web Developer</h3>
 
 <br />
 <br />
 <h2>:raising_hand: About Me</h2>
 
-- :book: I’m currently learning **MERN Stack**. 
+- :book: I’m **Full Stack Web Developer**. 
 - 📫 How to reach me: **harshadajagtap199725@gmail.com** 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB.** 
 - 👨‍💻 My portfolio: <a href="https://harshada-jagtap-portfolio.vercel.app/">Please visit here</a>
@@ -53,6 +53,9 @@
   />&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+  />&nbsp;&nbsp;
+  <img
+    src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
   />&nbsp;&nbsp;
 </p>
 
