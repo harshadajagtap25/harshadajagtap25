@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Harshada Jagtap</h1>
-<h3 align="center">I'm Aspiring Full Stack Web Developer</h3>
+<!-- <h3 align="center">I'm Aspiring Full Stack Web Developer</h3> -->
 
 <br />
 <br />
@@ -57,6 +57,9 @@
   <img
     src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
   />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/flutter-3181FF.svg?style=for-the-badge&logo=flutter&logoColor=white'/> &nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/AWS-FF6C37?style=for-the-badge&logo=awss3&logoColor=white'/> &nbsp;&nbsp;
+
 </p>
 
 <p align="center"></p>
@@ -65,11 +68,16 @@
 
 <br />
 <p>
-  <img
+<!--   <img
     style="height: 200px; width: 48%"
     title="Get streak stats for your profile at git.io/streak-stats"
     alt="Harshada Jagtap's streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=harshadajagtap25&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
+  /> -->
+   <img
+    style="height: 200px; width: 48%"
+    alt="Harshada Jagtap's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadajagtap25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
   />
   <img
     style="height: 200px; width: 48%"
@@ -79,11 +87,11 @@
 </p>
 <br />
 <p>
-  <img
+<!--   <img
     style="height: 200px; width: 48%"
     alt="Harshada Jagtap's Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadajagtap25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-  />
+  /> -->
 
   <img
     style="height: 200px; width: 100%;"
